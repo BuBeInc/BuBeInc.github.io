@@ -1,0 +1,62 @@
+html
+{
+    background-color: white;
+}
+
+p
+{
+
+}
+
+.icon
+{
+    position: sticky;
+    bottom: 0;
+    left: 0;
+}
+
+/*
+{
+    margin: 0, auto;
+    border: 0, 0;
+    padding: 5px;
+}
+
+html
+{
+    background-color: #f5de7a;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1
+{
+    font-size: 150px;
+    padding: 10px 0;
+}
+
+p
+{
+    border: 2px solid #b37100; 
+}
+
+.centre
+{
+    display: box;
+    left: 30%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.center img
+{
+    height: 125px;
+    width: 130px;
+}
+
+.fixed
+{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+*/
